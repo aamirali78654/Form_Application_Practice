@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Enter Name</string>
+    <string name="txtview">My Application Form</string>
+    <string name="hintname">Type Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_phone">Enter Phone</string>
+    <string name="button">Click Now</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="java">Java</string>
+    <string name="Python">Python</string>
+    <string name="c">C++</string>
+    <string name="gender">Gender :-</string>
+    <string name="text_lang">Select any Interested Languages</string>
+
+    <string-array name="sp_citiess">
+        <item>Select City</item>
+        <item>Badah</item>
+        <item>Dokri</item>
+        <item>Naseerabad</item>
+    </string-array>
+</resources>
